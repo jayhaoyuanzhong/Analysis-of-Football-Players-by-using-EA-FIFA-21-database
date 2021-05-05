@@ -1,5 +1,5 @@
 # Analysis of Football Players by using EA FIFA 21 database
-
+Rutgers University MSDS 597 Final Project by Haoyuan Zhong
 
 
 CSV Files: 
