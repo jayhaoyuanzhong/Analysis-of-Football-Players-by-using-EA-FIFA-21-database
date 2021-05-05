@@ -3,8 +3,8 @@ Analysis of Football Players by using EA FIFA 21 database
 
 
 CSV Files: 
-FIFA21 player raw.csv is the data that I scraped from FIFA 21 Players - Ultimate Team Ratings _ FUTBIN.html, with 1200 players. I writed as CSV files.
-players_21.csv is the data that downloaded from Kaggle
+FIFA21 player raw.csv is the data that I scraped from FIFA 21 Players - Ultimate Team Ratings _ FUTBIN.html, with 1200 players. I write it as CSV files.
+players_21.csv is the data that downloaded from Kaggle.
 
 R Markdown:
 Final Project by Haoyuan Zhong.Rmd includes all my code for this project
@@ -15,4 +15,6 @@ FIFA 21 Players - Ultimate Team Ratings _ FUTBIN.html is the website where my sc
 Final-Project-by-Haoyuan-Zhong.html is my R markdown output.
 
 PowerPoint:
-Final Project Presentation by Haoyuan Zhong.pptx is my presentation PowerPoint
+Final Project Presentation by Haoyuan Zhong.pptx is my presentation PowerPoint.
+
+
