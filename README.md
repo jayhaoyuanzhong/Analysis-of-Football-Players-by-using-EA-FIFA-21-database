@@ -13,3 +13,6 @@ Final Project_Scraping Data by Haoyuan Zhong.Rmd is the code of scraping part, s
 HTML files:
 FIFA 21 Players - Ultimate Team Ratings _ FUTBIN.html is the website where my scraped data from.
 Final-Project-by-Haoyuan-Zhong.html is my R markdown output.
+
+PowerPoint:
+Final Project Presentation by Haoyuan Zhong.pptx is my presentation PowerPoint
