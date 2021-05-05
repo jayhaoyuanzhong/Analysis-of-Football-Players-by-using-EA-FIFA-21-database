@@ -8,7 +8,7 @@ players_21.csv is the data that downloaded from Kaggle.
 
 R Markdown:
 Final Project by Haoyuan Zhong.Rmd includes all my code for this project
-Final Project_Scraping Data by Haoyuan Zhong.Rmd is the code of scraping part, since if I include scraping data on my full code files, I cannot knit because of the connection error. 
+Final Project_Scraping Data by Haoyuan Zhong.Rmd is the code of scraping part, since if I include scraping data on my full code files, I cannot knit my output because of the connection error. 
 
 HTML files:
 FIFA 21 Players - Ultimate Team Ratings _ FUTBIN.html is the website where my scraped data from.
